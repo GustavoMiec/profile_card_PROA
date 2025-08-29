@@ -20,12 +20,6 @@ O design é responsivo e pode ser usado como base para portfólios, páginas pes
 - Botões de ação (Subscribe e Message).
 - Estilo moderno com sombras, cantos arredondados e hover effects.
 
----
-
-## 📷 Prévia do Projeto
-![Preview](img/Gustavo.jpg)
-
----
 
 ## 📂 Estrutura de Arquivos
 ```
